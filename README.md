@@ -12,6 +12,7 @@ Sensors
 * relative humidity
 * luminosity / radiation
 * soil moisture
+* rain guage
 
 connectivity
 * wifi
