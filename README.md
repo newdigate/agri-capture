@@ -1,7 +1,8 @@
 # agri-capture
+create datasets with correlated meteorological and plant disease information data
 
   * wifi-enabled **digital weather station** device to record weather conditions for indoor and outdoor plant growers.
-  * **web-user-interface** to view grow information statistics and record disease information.
+  * **web-user-interface** to view weather charts and record disease activity information.
   * **json rest-api** interface to database 
 
 Sensors
