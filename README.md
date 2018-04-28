@@ -10,7 +10,7 @@ Sensors
 * temperature
 * pressure
 * relative humidity
-* luminosity
+* luminosity / radiation
 * soil moisture
 
 connectivity
