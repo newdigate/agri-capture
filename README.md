@@ -5,7 +5,7 @@ create datasets with correlated meteorological and plant disease information dat
   * **web-user-interface** to view weather charts and record disease activity information.
   * **json rest-api** interface to database 
 
-Sensors
+## sensors
 * carbon dioxide 
 * temperature
 * pressure
@@ -14,8 +14,17 @@ Sensors
 * soil moisture
 * rain guage
 
-connectivity
+## connectivity
 * wifi
   * ESP8266 - https://en.wikipedia.org/wiki/ESP8266
 * sd card (for disconnected locations) 
 * posibly 2G GPRS
+
+# web user interface
+* https://github.com/nhnent/tui.calendar
+
+# json rest api
+* node js
+
+# digital weather station
+* teensy 3.5 / 3.6 micro-controller board
