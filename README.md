@@ -7,11 +7,13 @@ a data logger and software for plant growers to record plant, soil, and meteorol
 * processed deep-learning datasets will be used to predict current and historic plant conditions 
 
 ## project breakdown
-  * **digital weather station** to record weather conditions for indoor and outdoor plant growers.
-    * wifi-enabled
-    * weather-proof enclosure for indoor and outdoor use
-  * **web-user-interface** to view recorded information, charts and record plant condition / disease activity information.
-  * **json rest-api** interface to database 
+  * hardware
+    * **digital weather station** to record weather conditions for indoor and outdoor plant growers.
+      * wifi-enabled
+      * weather-proof enclosure for indoor and outdoor use
+  * software
+    * **web-user-interface** to view recorded information, charts and record plant condition / disease activity information.
+    * **json rest-api** interface to database 
 
 ## sensors
 * carbon dioxide 
