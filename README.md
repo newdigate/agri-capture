@@ -10,7 +10,7 @@ a data logger and software for plant growers to record plant, soil, and meteorol
   * **digital weather station** to record weather conditions for indoor and outdoor plant growers.
     * wifi-enabled
     * weather-proof enclosure for indoor and outdoor use
-  * **web-user-interface** to view weather charts and record disease activity information.
+  * **web-user-interface** to view recorded information, charts and record plant condition / disease activity information.
   * **json rest-api** interface to database 
 
 ## sensors
