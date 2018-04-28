@@ -15,5 +15,6 @@ Sensors
 
 connectivity
 * wifi
+  * ESP8266 - ```https://en.wikipedia.org/wiki/ESP8266```
 * sd card (for disconnected locations) 
 * posibly 2G GPRS
