@@ -1,7 +1,15 @@
 # agri-capture
-create datasets with correlated meteorological and plant disease information data
 
-  * wifi-enabled **digital weather station** device to record weather conditions for indoor and outdoor plant growers.
+```status: prototype; in conception;```
+
+a data logger and software for plant growers to record plant, soil, and meteorological conditions.
+* intended to create datasets with correlated meteorological and plant condition data for deep-learning,
+* processed deep-learning datasets will be used to predict current and historic plant conditions 
+
+## project breakdown
+  * **digital weather station** to record weather conditions for indoor and outdoor plant growers.
+    * wifi-enabled
+    * weather-proof enclosure for indoor and outdoor use
   * **web-user-interface** to view weather charts and record disease activity information.
   * **json rest-api** interface to database 
 
