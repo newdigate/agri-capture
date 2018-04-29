@@ -1,6 +1,6 @@
 # agri-capture
 
-**plant data logger** 
+## plant data logger
 
 status: ```prototype - in conception;```
 
@@ -8,7 +8,7 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
 * intended to create datasets with correlated meteorological and plant condition data for deep-learning,
 * processed deep-learning datasets will be used to predict current and historic plant conditions 
 
-## project breakdown
+### project breakdown
   * hardware
     * **digital weather station** to record weather conditions for indoor and outdoor plant growers.
       * wifi-enabled
@@ -17,7 +17,7 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
     * **web-user-interface** to view recorded information, charts and record plant condition / disease activity information.
     * **json rest-api** interface to database 
 
-## sensors
+### sensors
 * carbon dioxide 
 * temperature
 * pressure
@@ -26,13 +26,13 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
 * soil moisture
 * rain guage
 
-## connectivity
+### connectivity
 * wifi
   * ESP8266 - https://en.wikipedia.org/wiki/ESP8266
 * sd card (for disconnected locations) 
 * posibly 2G GPRS
 
-# web user interface
+### web user interface
 * user interactions
   * manage weather stations
   * manage individual plants 
@@ -40,8 +40,8 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
 * posible useful javascript components
   * https://github.com/nhnent/tui.calendar
 
-# json rest api
+### json rest api
 * node js
 
-# digital weather station
+### digital weather station
 * teensy 3.5 / 3.6 micro-controller board
