@@ -36,9 +36,13 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
   * Adafruit - 12" etape liquid level sensor https://www.adafruit.com/product/464 $39.95
 
 ### connectivity
+* Real-time clock
+  * Adalogger FeatherWing - RTC + SD Add-on https://www.adafruit.com/product/2922
 * wifi
   * ESP8266 - https://en.wikipedia.org/wiki/ESP8266
-* sd card (for disconnected locations) 
+    * https://www.adafruit.com/product/2821 $16.95
+* sd card variant (for disconnected locations) 
+  * Adafruit Feather 32u4 Adalogger https://www.adafruit.com/product/2795 $21.95
 * posibly 2G GPRS
 
 ### web user interface
