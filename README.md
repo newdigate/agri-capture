@@ -56,7 +56,12 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
     * https://www.adafruit.com/product/2795 $21.95
 * posibly 2G GPRS variant
   * Adafruit Feather 32u4 FONA
-    * https://www.adafruit.com/product/3027
+    * https://www.adafruit.com/product/3027 $14.95
+* (after-thoughts) 
+  * FeatherWing OLED - 128x32 OLED Add-on For All Feather Boards
+    * https://www.adafruit.com/product/2900 $14.95
+  * Lithium Ion Polymer Battery - 3.7v 2500mAh
+    * https://www.adafruit.com/product/328 $14.95
 
 ### web user interface
 * user interactions
