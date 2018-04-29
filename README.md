@@ -1,8 +1,10 @@
 # agri-capture
 
-```status: prototype; in conception;```
+**plant data logger** 
 
-**plant data logger** hardware and software for plant growers to record plant, genetic, soil, and meteorological conditions.
+status: ```prototype - in conception;```
+
+hardware and software for plant growers to record plant, genetic, soil, and meteorological conditions.
 * intended to create datasets with correlated meteorological and plant condition data for deep-learning,
 * processed deep-learning datasets will be used to predict current and historic plant conditions 
 
