@@ -23,7 +23,8 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
 * pressure
 * relative humidity
 * luminosity / radiation
-* soil moisture
+* soil moisture / soil water level
+  * 12" etape liquid level sensor https://www.adafruit.com/product/464
 * rain guage
 
 ### connectivity
