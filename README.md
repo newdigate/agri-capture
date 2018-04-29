@@ -23,7 +23,12 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
 * temperature
 * pressure
 * relative humidity
-* luminosity / radiation
+* color spectrum
+  * https://www.adafruit.com/product/1334
+* luminosity 
+  * TSL2561 https://www.adafruit.com/product/439
+* uv radiation
+  * Adafruit - ANALOG UV LIGHT SENSOR BREAKOUT -https://www.adafruit.com/product/1918
 * soil moisture / soil water level
   * 12" etape liquid level sensor https://www.adafruit.com/product/464
 * rain guage
