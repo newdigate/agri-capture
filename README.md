@@ -2,7 +2,7 @@
 
 ```status: prototype; in conception;```
 
-a data logger and software for plant growers to record plant, genetic, soil, and meteorological conditions.
+**plant data logger** hardware and software for plant growers to record plant, genetic, soil, and meteorological conditions.
 * intended to create datasets with correlated meteorological and plant condition data for deep-learning,
 * processed deep-learning datasets will be used to predict current and historic plant conditions 
 
