@@ -22,8 +22,8 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
 * carbon dioxide 
   * Adafruit SGP30 Air Quality Sensor Breakout - VOC and eCO2 https://www.adafruit.com/product/3709 - $19.95
   * Adafruit CCS811 Air Quality Sensor Breakout - VOC and eCO2 https://www.adafruit.com/product/3566 - $19.95 
-* temperature, pressure, humidity
-  * Adafruit BME680 - Temperature, Humidity, Pressure and Gas Sensor https://www.adafruit.com/product/3660 - $22.50
+* temperature, pressure, humidity 
+  * Adafruit BME680 - Temperature, Humidity, Pressure and Gas Sensor https://www.adafruit.com/product/3660 - $22.50
   * Adafruit Sensiron SHT31-D Temperature & Humidity Sensor Breakout https://www.adafruit.com/product/2857
 * color spectrum
   * https://www.adafruit.com/product/1334
