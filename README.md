@@ -20,9 +20,10 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
 
 ### sensors
 * carbon dioxide 
-* temperature
-* pressure
-* relative humidity
+* temperature, pressure, humidity
+  * Adafruit BME680 - Temperature, Humidity, Pressure and Gas Sensor https://www.adafruit.com/product/3660
+  * Adafruit Sensiron SHT31-D Temperature & Humidity Sensor Breakout https://www.adafruit.com/product/2857
+  https://www.adafruit.com/product/2857
 * color spectrum
   * https://www.adafruit.com/product/1334
 * luminosity 
