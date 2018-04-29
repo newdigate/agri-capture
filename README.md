@@ -2,7 +2,7 @@
 
 ```status: prototype; in conception;```
 
-a data logger and software for plant growers to record plant, soil, and meteorological conditions.
+a data logger and software for plant growers to record plant, genetic, soil, and meteorological conditions.
 * intended to create datasets with correlated meteorological and plant condition data for deep-learning,
 * processed deep-learning datasets will be used to predict current and historic plant conditions 
 
@@ -31,7 +31,12 @@ a data logger and software for plant growers to record plant, soil, and meteorol
 * posibly 2G GPRS
 
 # web user interface
-* https://github.com/nhnent/tui.calendar
+* user interactions
+  * manage weather stations
+  * manage individual plants 
+  * correlate plants and weather stations
+* posible useful javascript components
+  * https://github.com/nhnent/tui.calendar
 
 # json rest api
 * node js
