@@ -8,14 +8,15 @@ hardware and software for plant growers to record plant, genetic, soil, and mete
 * intended to create datasets with correlated meteorological and plant condition data for deep-learning,
 * processed deep-learning datasets will be used to predict current and historic plant conditions 
 
-### project breakdown
-#### hardware
+### hardware
 * **digital weather station** to record weather conditions for indoor and outdoor plant growers.
   * wifi-enabled
   * weather-proof enclosure for indoor and outdoor use
-#### software
+  
+### software
 * **web-user-interface** to view recorded information, charts and record plant condition / disease activity information.
 * **json rest-api** interface to database 
+
 
 ### sensors
 * carbon dioxide 
